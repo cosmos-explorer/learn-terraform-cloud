@@ -1,9 +1,9 @@
 variable "instance_type" {
-  type = string
+  type    = string
   default = ""
 }
 
 variable "instance_name" {
-  type = string
+  type    = string
   default = ""
 }
